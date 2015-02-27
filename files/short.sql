@@ -1,4 +1,4 @@
-INSERT INTO devices_dictionary VALUES (("A1-810","Acer Iconia A1-810"),
+INSERT INTO devices_dictionary VALUES ("A1-810","Acer Iconia A1-810"),
 ("ALCATEL_ONE_TOUCH_Fierce","Alcatel One Touch Fierce"),
 ("ALCATEL_ONE_TOUCH_7041X","Alcatel One Touch Pop C7"),
 ("ALCATEL_ONE_TOUCH_5035X","Alcatel One Touch X Pop"),
@@ -359,4 +359,4 @@ INSERT INTO devices_dictionary VALUES (("A1-810","Acer Iconia A1-810"),
 ("T-Mobile_myTouch_Q","T-Mobile myTouch Q"),
 ("QMV7A","Verizon Ellipsis 7"),
 ("MI_3W","Xiaomi Mi 3"),
-("N860","ZTE Warp N860"));
+("N860","ZTE Warp N860");
